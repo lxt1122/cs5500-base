@@ -22,8 +22,8 @@ Your TA will be one of these:
 
 | Image | Name | Email |
 |-------|------|-------|
-| <img src="Resources/bella.jpeg" alt="Bella" height="64" width="64"> | Bella | xie.xinyu@northeastern.edu |
-| <img src="Resources/edward.jpeg" alt="Edward" height="64" width="64"> | Edward | Zhang.jiale2@northeastern.edu |
+| <img src="Resources/cat.png" alt="cat" height="64" width="64"> | Cat | email |
+| <img src="Resources/dog.png" alt="dog" height="64" width="64"> | Dog| email |
 
 
 ## Weekly Stand-Up Time
