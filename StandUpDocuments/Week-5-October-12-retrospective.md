@@ -4,7 +4,7 @@
 [Insert Team Name Here]
 
 ## Date
-Week 1 September 09
+Week 5 October 12
 
 ## Participants
 - [Team Member 1]
