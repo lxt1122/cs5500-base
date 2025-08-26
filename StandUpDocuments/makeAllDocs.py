@@ -165,16 +165,16 @@ def create_sharing_documents():
     # Dictionary of dates with student presentation flag and project titles
     sharing_schedule = {
         "Week-02-September-15": {"student": True, "title": None},
-        "Week-03-September-22": {"student": True, "title": None},
-        "Week-04-September-29": {"student": False, "title": "Project Kickoff & Requirements Review"},
+        "Week-03-September-22": {"student": False, "title": "Project Kickoff"},
+        "Week-04-September-29": {"student": True, "title": None},
         "Week-05-October-06": {"student": True, "title": None},
         "Week-06-October-13": {"student": True, "title": None},
-        "Week-07-October-20": {"student": False, "title": "MVP Demo & Feedback Session"},
+        "Week-07-October-20": {"student": False, "title": "Project Pitch"},
         "Week-08-October-27": {"student": True, "title": None},
         "Week-09-November-03": {"student": True, "title": None},
-        "Week-10-November-10": {"student": False, "title": "Play Test & User Feedback"},
-        "Week-11-November-17": {"student": True, "title": None},
-        "Week-12-November-24": {"student": False, "title": "Final Presentation Prep"},
+        "Week-10-November-10": {"student": False, "title": "Research Paper Presentations"},
+        "Week-11-November-17": {"student": False, "title": "Play Test"},
+        "Week-12-November-24": {"student": False, "title": "MVP Demo"},
         "Week-13-December-01": {"student": True, "title": None},
         "Week-14-December-08": {"student": False, "title": "Final Project Presentations"},
     }
