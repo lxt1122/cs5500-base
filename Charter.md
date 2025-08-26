@@ -24,12 +24,22 @@ Our team is dedicated to achieving the following purpose and objectives:
 
 ## Roles and Responsibilities
 To leverage individual strengths and ensure accountability, we have assigned the following roles and responsibilities:
-1. **Team Lead/Scrum Master:** Coordinates team activities, manages timeline, leads TA standups, maintains partner communication
-2. **Frontend Developer:** Responsible for user interface, user experience, and client-side functionality
-3. **Backend Developer:** Handles server-side logic, database design, API development, and system architecture
-4. **QA/DevOps (if 4-person team):** Testing, deployment, CI/CD, and ensuring code quality
 
-*Note: In 3-person teams, members may take on multiple roles as needed.*
+### Suggested Role Assignments:
+1. **Producer:** Responsible for client interaction, project updates, stakeholder communication, and ensuring deliverables meet partner requirements. Manages external relationships and project scope.
+
+2. **Frontend Engineer:** Develops user interface, user experience, and client-side functionality. Responsible for responsive design, accessibility, and user interaction flows.
+
+3. **Backend Engineer:** Handles server-side logic, database design, API development, system architecture, and data management. Ensures scalability and security.
+
+4. **Test Coordinator:** Oversees testing strategy, quality assurance, automated testing, deployment processes, and ensures code quality standards are met.
+
+### Alternative Role Structure:
+- **Team Lead/Scrum Master:** Coordinates team activities, manages timeline, leads TA standups
+- **Full-Stack Developer:** Handles both frontend and backend development
+- **QA/DevOps Specialist:** Testing, deployment, CI/CD, and code quality
+
+*Note: In 3-person teams, members may take on multiple roles as needed. The Producer role is essential for maintaining client relationships regardless of team size.*
 
 ## Team Values and Norms
 We commit to upholding the following values and norms:
@@ -42,14 +52,14 @@ We commit to upholding the following values and norms:
 ## Decision-Making Process
 Decisions within the team will be made using the following process:
 1. **Technical Decisions:** Discussed openly in team meetings, with subject matter expert having final say
-2. **Project Direction:** Team Lead coordinates with external partner and presents options to team for consensus
-3. **Urgent Decisions:** Team Lead can make immediate decisions, but must inform team within 24 hours
+2. **Project Direction:** Producer coordinates with external partner and presents options to team for consensus
+3. **Urgent Decisions:** Producer or Team Lead can make immediate decisions, but must inform team within 24 hours
 
 ## Communication Plan
 Effective communication is crucial for our success. Our communication plan includes:
 1. **Internal Team Communication:** [Team decides on preferred platform - Slack, Discord, WhatsApp, etc.]
-2. **External Partner Communication:** Team Lead maintains regular contact via email/scheduled calls
-3. **TA Communication:** Weekly standup meetings with shared status updates
+2. **External Partner Communication:** Producer maintains regular contact with external partner via email/scheduled calls, provides project updates, and manages stakeholder expectations
+3. **TA Communication:** Weekly standup meetings with shared status updates (typically led by Producer or Team Lead)
 4. **Emergency Contact:** All team members share phone numbers for urgent issues
 5. **Response Time:** Team members commit to responding to messages within 24 hours during weekdays
 
