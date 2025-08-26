@@ -98,7 +98,7 @@ Identify actionable steps that can be taken to improve future projects.
 ---
 
 ## Overall Team Assessment
-Reflect on the team’s performance as a whole.
+Reflect on the team's performance as a whole.
 - **Team Strengths:**
   -
 - **Areas for Improvement:**
