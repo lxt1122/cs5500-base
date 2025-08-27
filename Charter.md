@@ -12,6 +12,22 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
   3. __________________________
   4. __________________________ (if applicable)
 
+## Charter Sign-In
+**Instructions:** Each team member must individually edit this file, add their name below, and commit the change. This creates accountability through git commit history showing each member's participation.
+
+**Team Member Signatures:**
+<!-- Each member: Edit this file, add your name and date, then commit with message "Add [Your Name] to charter sign-in" -->
+
+1. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+
+2. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+
+3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+
+4. **Name:** __________________________ **Date:** __________ **Role:** __________________________ (if applicable)
+
+*Note: The git commit history will verify that each team member has individually signed this charter.*
+
 ## Team Purpose and Objectives
 Our team is dedicated to achieving the following purpose and objectives:
 1. **Purpose:** Develop a high-quality mobile/web application that meets our external partner's requirements and delivers real value to their users.
