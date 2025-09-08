@@ -7,10 +7,10 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 - **Team Name:** __________________________
 - **External Partner:** __________________________
 - **Team Members (3-4 people):**
-  1. __________________________
-  2. __________________________
-  3. __________________________
-  4. __________________________ (if applicable)
+  1. __Xuetao Li_______
+  2. __Bijing Tang_____________
+  3. __Qi Wei_____________
+  4. __Yuan Zeng________________ (if applicable)
 
 ## Charter Sign-In
 **Instructions:** Each team member must individually edit this file, add their name below, and commit the change. This creates accountability through git commit history showing each member's participation.
