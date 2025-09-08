@@ -21,9 +21,9 @@ Briefly describe the purpose of this retrospective and what you aim to achieve.
 
 ## What Went Well
 List the things that went well during the project.
--
--
--
+- We complete the Charter well
+- We have a group on Teams to ensure we communicate well.
+- We set up a preliminary schedule for StandUp Meeting.
 
 ---
 
