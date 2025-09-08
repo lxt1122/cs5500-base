@@ -7,11 +7,10 @@
 Week 1 September 14
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+- Lionel Li
+- Bijing Tang
+- Qi Wei
+- Cara Zeng
 
 ---
 
