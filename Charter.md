@@ -7,7 +7,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 - **Team Name:** __________________________
 - **External Partner:** __________________________
 - **Team Members (3-4 people):**
-  1. __Xuetao Li_______
+  1. __Lionel Li_______
   2. __Bijing Tang_____________
   3. __Qi Wei_____________
   4. __Yuan Zeng________________ (if applicable)
