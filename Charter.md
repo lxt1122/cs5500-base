@@ -4,11 +4,11 @@
 This Team Charter outlines the purpose, objectives, roles, responsibilities, and operating guidelines for our team as we develop an application for our external partner. It serves as a roadmap to ensure alignment and effective collaboration throughout the project.
 
 ## Team Information
-- **Team Name:** __________________________
+- **Team Name:** _____() => lol__________________ 
 - **External Partner:** __________________________
 - **Team Members (3-4 people):**
   1. __Lionel Li_______
-  2. __Bijing Tang_____________
+  2. __Yilin Pan_____________
   3. __Qi Wei_____________
   4. __Yuan Zeng________________ (if applicable)
 
@@ -20,7 +20,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 1. **Name:** __Xuetao Li_____ **Date:** __Sep.8__ **Role:** __________________________
 
-2. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+2. **Name:** __Yilin Pan ______________ **Date:** 09.10.2025 **Role:** __Producer________________
 
 3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
