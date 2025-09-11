@@ -8,7 +8,7 @@ Week 1 September 14
 
 ## Participants
 - Lionel Li
-- Bijing Tang
+- Yilin Pan
 - Qi Wei
 - Cara Zeng
 
