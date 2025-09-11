@@ -15,7 +15,10 @@ Week 1 September 14
 ---
 
 ## Overview
-Briefly describe the purpose of this retrospective and what you aim to achieve.
+It is the first week, so the focus is about getting to know each other:
+- Skills we have
+- Preference of role
+- Idea about the program
 
 ---
 
@@ -29,15 +32,13 @@ List the things that went well during the project.
 
 ## What Could Be Improved
 List the areas where there is room for improvement.
--
--
--
+- Everything is good now.
 
 ---
 
 ## Action Items
 Identify actionable steps that can be taken to improve future projects.
-1.
+1. At the beginning of the project, we could be more chill, just have fun knowing each other.
 2.
 3.
 
@@ -54,15 +55,18 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 2]
+### Yilin Pan
 - **Achievements and Contributions:**
-  -
+  - Learned basic syntax of typescript
+  - Thinking of possible directions of our project
+  - Research about games written in JS/TS and possible tools/engines
 - **Challenges Faced:**
-  -
+  - Not clear of what the user's request would be, need more clarity
+  - Scaring myself of possible team communication problems
 - **Areas for Improvement:**
-  -
+  - Trying to be more chill
 - **Feedback and Suggestions:**
-  -
+  - All the fighting is in my mind
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
