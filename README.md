@@ -1,16 +1,16 @@
-# CS 5500 Fall 2024 Template Repository <img src="Resources/teamlogo.png" alt="Team Logo" height="256" width="256" align="right">
+# CS 5500 Fall 2024 - Team () => lol <img src="Resources/teamlogo.png" alt="Team Logo" height="256" width="256" align="right">
 
 
-- This is the landing page of your team.
-- **Team Name:** [Place holder for a team name]
-- **Team Logo:** [Place holder for a team logo]
-- **Team Description:** [Place holder for a team description]
+- Welcome to the landing page of our team.
+- **Team Name:** () => lol
+- **Team Logo:** 
+- **Team Description:** Built to compile pain into laughter, but mostly just pain.
 
 
 ## Team Members
 | Image | Name | Email |
 |-------|------|-------|
-| <img src="Resources/cat.png" alt="Cat" height="64" width="64"> | Cat | cat@example.com |
+| <img src="Resources/flower2.jpg" alt="PP" height="64" width="64"> | PP | page10rock@gmail.com |
 | <img src="Resources/dog.png" alt="Dog" height="64" width="64"> | Dog | dog@example.com |
 | <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | hippo@example.com |
 | <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Shark | shark@example.com |
