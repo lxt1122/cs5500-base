@@ -24,7 +24,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
-4. **Name:** __Yuan Zeng_______________ **Date:** 09.08.2025 **Role:** __________________________ (if applicable)
+4. **Name:** __Yuan Zeng_______________ **Date:** 09.08.2025 **Role:** ___Full-Stack Developer________ (if applicable)
 
 *Note: The git commit history will verify that each team member has individually signed this charter.*
 

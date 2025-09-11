@@ -12,7 +12,7 @@
 |-------|------|-------|
 | <img src="Resources/flower2.jpg" alt="PP" height="64" width="64"> | PP | page10rock@gmail.com |
 | <img src="Resources/dog.png" alt="Dog" height="64" width="64"> | Lionel | xuetao.li168@gmail.com |
-| <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | hippo@example.com |
+| <img src="Resources/cara_headshot.JPG" alt="Hippo" height="64" width="64"> | Cara | carazengca@gmail.com |
 | <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Shark | shark@example.com |
 
 

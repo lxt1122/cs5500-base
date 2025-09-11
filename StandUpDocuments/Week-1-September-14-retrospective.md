@@ -45,9 +45,9 @@ Identify actionable steps that can be taken to improve future projects.
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+### Cara(Yuan Zeng)
 - **Achievements and Contributions:**
-  -
+  - implement later
 - **Challenges Faced:**
   -
 - **Areas for Improvement:**
