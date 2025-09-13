@@ -18,7 +18,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 **Team Member Signatures:**
 <!-- Each member: Edit this file, add your name and date, then commit with message "Add [Your Name] to charter sign-in" -->
 
-1. **Name:** __Xuetao Li_____ **Date:** __Sep.8__ **Role:** __________________________
+1. **Name:** __Xuetao Li_____ **Date:** __Sep.8__ **Role:** ____Front-end Developer______________________
 
 2. **Name:** __Yilin Pan ______________ **Date:** 09.10.2025 **Role:** __Producer________________
 
