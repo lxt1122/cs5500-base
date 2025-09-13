@@ -13,7 +13,7 @@
 | <img src="Resources/flower2.jpg" alt="PP" height="64" width="64"> | PP | page10rock@gmail.com |
 | <img src="Resources/dog.png" alt="Dog" height="64" width="64"> | Lionel | xuetao.li168@gmail.com |
 | <img src="Resources/cara_headshot.JPG" alt="Hippo" height="64" width="64"> | Cara | carazengca@gmail.com |
-| <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Dako | curioisiky@gmail.com |
+| <img src="Resources/dako.png" alt="Shark" height="64" width="64"> | Dako | curioisiky@gmail.com |
 
 
 
