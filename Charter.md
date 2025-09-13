@@ -9,7 +9,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 - **Team Members (3-4 people):**
   1. __Lionel Li_______
   2. __Yilin Pan_____________
-  3. __Qi Wei_____________
+  3. __Dako(Qi Wei)_____________
   4. __Yuan Zeng________________ (if applicable)
 
 ## Charter Sign-In
@@ -22,7 +22,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 2. **Name:** __Yilin Pan ______________ **Date:** 09.10.2025 **Role:** __Producer________________
 
-3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+3. **Name:** ____Qi Wei___________________ **Date:** ___2025-09-12_____ **Role:** _____Producer_________________
 
 4. **Name:** __Yuan Zeng_______________ **Date:** 09.08.2025 **Role:** ___Full-Stack Developer________ (if applicable)
 
