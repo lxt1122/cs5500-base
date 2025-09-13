@@ -68,15 +68,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - All the fighting is in my mind
 
-### [Team Member 3]
+### Lionel Li
 - **Achievements and Contributions:**
-  -
+  - learned the basic TypeScript syntax.
+  - Getting to know my teammates
 - **Challenges Faced:**
-  -
+  - Onboarding to an unfamiliar tech stack
 - **Areas for Improvement:**
-  -
+  - &
 - **Feedback and Suggestions:**
-  -
+  - Keep up our great work!
 
 ### [Team Member 4]
 - **Achievements and Contributions:**
