@@ -22,7 +22,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 2. **Name:** __Yilin Pan ______________ **Date:** 09.10.2025 **Role:** __Producer________________
 
-3. **Name:** ____Qi Wei___________________ **Date:** ___2025-09-12_____ **Role:** _____Producer_________________
+3. **Name:** ____Qi Wei___________________ **Date:** ___2025-09-12_____ **Role:** _____Back-end Developer_________________
 
 4. **Name:** __Yuan Zeng_______________ **Date:** 09.08.2025 **Role:** ___Full-Stack Developer________ (if applicable)
 
