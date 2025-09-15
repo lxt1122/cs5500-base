@@ -47,13 +47,14 @@ Identify actionable steps that can be taken to improve future projects.
 ## Individual Self-Assessments
 ### Cara(Yuan Zeng)
 - **Achievements and Contributions:**
-  - implement later
+  - readed the article sended by juancho.
+  - watched some typescript crash courses.
 - **Challenges Faced:**
-  -
+  - need some more knowledge about database
 - **Areas for Improvement:**
-  -
+  - maybe more time for this course
 - **Feedback and Suggestions:**
-  -
+  - More information about the things we will do this semester
 
 ### Yilin Pan
 - **Achievements and Contributions:**
